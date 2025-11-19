@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FormAddPaint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAuthorization.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormCatalog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormCheckHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormRegistration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormReturn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "xghZmHBYxS8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Студент_Ял\\source\\repos\\PaintSalesApp\\PaintSalesApp\\PaintSalesApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Студент_Ял\\.nuget\\packages\\system.configuration.configurationmanager\\10.0.0\\system.configuration.configurationmanager.10.0.0.nupkg.sha512",
+    "C:\\Users\\Студент_Ял\\.nuget\\packages\\system.data.oledb\\10.0.0\\system.data.oledb.10.0.0.nupkg.sha512",
+    "C:\\Users\\Студент_Ял\\.nuget\\packages\\system.diagnostics.eventlog\\10.0.0\\system.diagnostics.eventlog.10.0.0.nupkg.sha512",
+    "C:\\Users\\Студент_Ял\\.nuget\\packages\\system.diagnostics.performancecounter\\10.0.0\\system.diagnostics.performancecounter.10.0.0.nupkg.sha512",
+    "C:\\Users\\Студент_Ял\\.nuget\\packages\\system.security.cryptography.protecteddata\\10.0.0\\system.security.cryptography.protecteddata.10.0.0.nupkg.sha512",
+    "C:\\Users\\Студент_Ял\\.nuget\\packages\\system.threading.accesscontrol\\10.0.0\\system.threading.accesscontrol.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
