@@ -1,0 +1,1 @@
+# PaintSalesApp-praktika-
